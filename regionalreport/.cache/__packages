@@ -1,0 +1,16 @@
+base
+devtools
+ggplot2
+lattice
+maps
+maptools
+mgcv
+plyr
+rCharts
+RColorBrewer
+reshape
+rgeos
+scales
+slidify
+slidifyLibraries
+sp
